@@ -29,9 +29,9 @@ Passionate about the Open Source and Linux world </p>
 <br/>
 <p>
 <a href="https://www.linkedin.com/in/dias-lilian/" rel="nofollow">
-  <img src="https://img.shields.io/badge/%20-Lilia%20Dias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dias-lilian/" style="max-width:100%;">
+  <img src="https://img.shields.io/badge/%20-Lilia%20Dias-yellow?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dias-lilian/" style="max-width:100%;">
 </a>
   <a href="mailto:lilian.dias25@gmail.com">
- <img src="https://img.shields.io/badge/%20-lilian.dias25%40gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lilian.dias25@gmail.com" style="max-width:100%;">
+ <img src="https://img.shields.io/badge/%20-lilian.dias25%40gmail.com-yellow?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lilian.dias25@gmail.com" style="max-width:100%;">
 </a>
 </p>
