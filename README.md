@@ -51,5 +51,3 @@
  > <p align="center"> "Nothing in this world beats good old persistence." </p>
 
 <br/>
-
-![Snake animation](https://github.com/diaslilian/diaslilian/blob/output/github-contribution-grid-snake.svg)
